@@ -10,8 +10,6 @@ Tested up to: 3.5.1
 Stable tag: 1.0.0
 License: GPLv2
 
-Plugin to show "Lorem Ipsum" using a shortcode.
-
 == Description ==
 
 This Plugin will print 100 words of Lorem Ipsum text into your post. Usage is [lorem-ipsum], with optional parameter type (html or plain) and words.
@@ -19,14 +17,14 @@ This Plugin will print 100 words of Lorem Ipsum text into your post. Usage is [l
 
 == Installation ==
 
-Upload Lorem Ipsum plugin to your blog and activate it.
+1. Upload 'Lorem-Ipsum' to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Edit the Preferences of Lorem-Ipsum
 
-== Version ==
+== Changelog ==
 
 1.0.0 Initial release
 
-
-No == Frequently Asked Questions == section was found
-No == Changelog == section was found
-No == Upgrade Notice == section was found
-No == Screenshots == section was found
+== Frequently Asked Questions ==
+== Upgrade Notice ==
+== Screenshots ==
